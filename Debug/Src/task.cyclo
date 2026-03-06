@@ -1,0 +1,2 @@
+../Src/task.c:9:6:task_create	1
+../Src/task.c:24:10:task_get_current	1
